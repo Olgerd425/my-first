@@ -1,0 +1,13 @@
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.exe
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.deps.json
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.runtimeconfig.json
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.runtimeconfig.dev.json
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.dll
+D:\Projects\ClassinMethod\ClassinMethod\bin\Debug\netcoreapp3.1\ClassinMethod.pdb
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.csprojAssemblyReference.cache
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.AssemblyInfoInputs.cache
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.AssemblyInfo.cs
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.csproj.CoreCompileInputs.cache
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.dll
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.pdb
+D:\Projects\ClassinMethod\ClassinMethod\obj\Debug\netcoreapp3.1\ClassinMethod.genruntimeconfig.cache
